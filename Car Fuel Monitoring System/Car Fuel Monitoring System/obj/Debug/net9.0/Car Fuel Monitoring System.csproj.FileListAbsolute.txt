@@ -1,0 +1,15 @@
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\bin\Debug\net9.0\Car Fuel Monitoring System.exe
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\bin\Debug\net9.0\Car Fuel Monitoring System.deps.json
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\bin\Debug\net9.0\Car Fuel Monitoring System.runtimeconfig.json
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\bin\Debug\net9.0\Car Fuel Monitoring System.dll
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\bin\Debug\net9.0\Car Fuel Monitoring System.pdb
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.AssemblyInfoInputs.cache
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.AssemblyInfo.cs
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.csproj.CoreCompileInputs.cache
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.sourcelink.json
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.dll
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\refint\Car Fuel Monitoring System.dll
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.pdb
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\Car Fuel Monitoring System.genruntimeconfig.cache
+D:\Github\Car-Fuel-Monitoring-System-using-events\Car Fuel Monitoring System\Car Fuel Monitoring System\obj\Debug\net9.0\ref\Car Fuel Monitoring System.dll
